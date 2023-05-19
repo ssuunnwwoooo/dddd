@@ -54,14 +54,14 @@ body {}
 
 .bg00 {
     background-image: url(../image/p_main_001.jpg);
-    height: 1335px;
+    height: 1230px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .itm {
-    height: 1250px;
+    height: 1230px;
 }
 
 .itm01 {
